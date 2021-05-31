@@ -1,0 +1,5 @@
+Inspired by the 'Nightmare Behind You' and 'Radiance Barrage' mods for Hollow knight, the Boss Barrages mod makes it so that, after a certain amount of time, a certain boss will appear and use an attack on you. You can configure what bosses attack, when they attack, and how hard they hit in the mod's configuration settings.
+This mod is meant to add a challenge to your playthrough/add a challenge to a specific boss fight. Be sure to check out the homepage for more info! NOTE: For anything to occur you have to enable at least one of the mod's configuration settings.
+
+Changelog:
+-Version 1.0.0.0: Released!
